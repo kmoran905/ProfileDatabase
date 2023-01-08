@@ -14,7 +14,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author KHYLE
+ * @author kmoran095
  * This is a program I created used to write a profile database and writes them in text files.
  */
 public class ProfileDataBase {
